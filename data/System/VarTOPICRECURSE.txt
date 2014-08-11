@@ -1,4 +1,4 @@
-%META:TOPICINFO{author="ProjectContributor" date="1287902127" format="1.1" version="$Rev$"}%
+%META:TOPICINFO{author="ProjectContributor" date="1407719368" format="1.1" version="1"}%
 %META:TOPICPARENT{name="Macros"}%
 <blockquote class="foswikiHelp">%X% This plugin is incomplete. "%X%" against parameters, tokens means they aren't yet implemented. Lack of an %X% means the functionality exists or is untested...</blockquote>
 
